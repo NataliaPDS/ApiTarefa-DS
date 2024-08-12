@@ -1,0 +1,32 @@
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\appsettings.json
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\API - Tarefa1.exe
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\API - Tarefa1.deps.json
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\API - Tarefa1.runtimeconfig.json
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\API - Tarefa1.dll
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\API - Tarefa1.pdb
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.AssemblyInfoInputs.cache
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.AssemblyInfo.cs
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\staticwebassets\msbuild.API - Tarefa1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\staticwebassets\msbuild.build.API - Tarefa1.props
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API - Tarefa1.props
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API - Tarefa1.props
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\scopedcss\bundle\API - Tarefa1.styles.css
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.csproj.CopyComplete
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.dll
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\refint\API - Tarefa1.dll
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.pdb
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\API - Tarefa1.genruntimeconfig.cache
+C:\Users\2022102020084\Documents\3B Informatica\PDS\1 Bimestre\API - Tarefa1\API - Tarefa1\obj\Debug\net6.0\ref\API - Tarefa1.dll
