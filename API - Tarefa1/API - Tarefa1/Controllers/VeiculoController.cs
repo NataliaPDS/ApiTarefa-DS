@@ -14,28 +14,40 @@ namespace API___Tarefa1.Controllers
             public VeiculoController()
             {
 
-                var veiculo1 = new Veiculo()
-                {
-                    Id = 1,
-                    Descricao = "Estudo do API 1 Parte",
-                };
+            var veiculo1 = new Veiculo()
+            {
+                Marca = "1",
+                Modelo = "a",
+                AnoFab = 2020,
+                AnoModelo = 2010,
+                Placa = "AAA - 111",
+            };
 
                 var veiculo2 = new Veiculo()
                 {
-                    Id = 2,
-                    Descricao = "Estudo do API 2 Parte",
+                    Marca = "2",
+                    Modelo = "b",
+                    AnoFab = 2018,
+                    AnoModelo = 2011,
+                    Placa = "AAA - 222",
                 };
 
                 var veiculo3 = new Veiculo()
                 {
-                    Id = 3,
-                    Descricao = "Estudo do API 3 Parte",
+                    Marca = "3",
+                    Modelo = "c",
+                    AnoFab = 2024,
+                    AnoModelo = 2012,
+                    Placa = "AAA - 333",
                 };
            
                 var veiculo4 = new Veiculo()
                 {
-                    Id = 3,
-                    Descricao = "Estudo do API 3 Parte",
+                    Marca = "4",
+                    Modelo = "c",
+                    AnoFab = 2015,
+                    AnoModelo = 2005,
+                    Placa = "AAA - 444",
                 };
               
                 listaVeiculos.Add(veiculo1);
@@ -43,7 +55,7 @@ namespace API___Tarefa1.Controllers
                 listaVeiculos.Add(veiculo3);
                 listaVeiculos.Add(veiculo4);
 
-        }
+            }
 
             [HttpGet]
             public IActionResult Get()
@@ -52,10 +64,10 @@ namespace API___Tarefa1.Controllers
 
             }
 
-            [HttpGet("{id}")]
-            public IActionResult GetById(int id)
+            [HttpGet("{placa}")]
+            public IActionResult GetById(string placa)
             {
-                var veiculo = listaVeiculos.Where(item => item.Id == id).FirstOrDefault();
+                var veiculo = listaVeiculos.Where(item => item.Placa == placa).FirstOrDefault();
 
                 if (veiculo == null)
                 {
@@ -70,35 +82,40 @@ namespace API___Tarefa1.Controllers
             {
                 var contador = listaVeiculos.Count();
 
-                var veiculos = new Veiculo();
+                var veiculo = new Veiculo();
 
-                Veiculo.Marca = Veiculo.Descricao;
-                Veiculo.Feito = item.Feito;
+                veiculo.Marca = veiculo.Marca;
+                veiculo.Modelo = veiculo.Modelo;
+                veiculo.AnoFab = veiculo.AnoFab;
+                veiculo.AnoModelo = veiculo.AnoModelo;
 
-                listaVeiculos.Add(Veiculo);
+            listaVeiculos.Add(veiculo);
 
-                return StatusCode(StatusCodes.Status201Created, listaVeiculo);
+                return StatusCode(StatusCodes.Status201Created, listaVeiculos);
 
             }
             [HttpPut]
-            public IActionResult Put(int id, [FromBody] TarefaDTO item)
+            public IActionResult Put(string placa, [FromBody] TarefaDTO item)
             {
-                var veiculo = listaVeiculos.Where(item => item.Id == id).FirstOrDefault();
+                var veiculo = listaVeiculos.Where(item => item.Placa == placa).FirstOrDefault();
 
                 if (veiculo == null)
                 {
                     return NotFound();
                 }
-                veiculo.Descricao = item.Descricao;
-                veiculo.Feito = item.Feito;
+
+            veiculo.Marca = veiculo.Marca;
+            veiculo.Modelo = veiculo.Modelo;
+            veiculo.AnoFab = veiculo.AnoFab;
+            veiculo.AnoModelo = veiculo.AnoModelo;
 
 
-                return Ok(veiculo);
+            return Ok(veiculo);
             }
-            [HttpDelete("{id}")]
-            public IActionResult Delete(int id)
+            [HttpDelete("{placa}")]
+            public IActionResult Delete(string placa)
             {
-                var veiculo = listaVeiculos.Where(item => item.Id == id).FirstOrDefault();
+                var veiculo = listaVeiculos.Where(item => item.Placa == placa).FirstOrDefault();
 
                 if (veiculo == null)
                 {
@@ -109,6 +126,6 @@ namespace API___Tarefa1.Controllers
                 listaVeiculos.Remove(veiculo);
                 return Ok(veiculo);
             }
-        }
+        
     }
 }
